@@ -7,10 +7,10 @@ import urllib.request
 
 def match_captured_image_with_thumbnails(file_path):
   config = {
-    "apiKey": "AIzaSyDwu5UlB1jj-rQI05L1VEKJovXYShgWRbk",
-    "authDomain": "koobookandroidapp.firebaseapp.com",
-    "databaseURL": "https://koobookandroidapp.firebaseio.com",
-    "storageBucket": "koobookandroidapp.appspot.com"
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "storageBucket": ""
   }
 
   firebase = Firebase(config)
